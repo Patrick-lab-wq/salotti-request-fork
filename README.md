@@ -26,5 +26,5 @@ Exemplo:
     --cor-verde: #28a745;
 }
 
- <img src="<img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/9a1849f7-eef3-4614-901a-c14e2d7a95d2" />
-">
+ <img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/9a1849f7-eef3-4614-901a-c14e2d7a95d2" />
+
